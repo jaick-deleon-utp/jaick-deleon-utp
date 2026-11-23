@@ -37,7 +37,8 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 * 👔 **Perfil Profesional en LinkedIn:** (https://www.linkedin.com/in/jaick-de-león-942550451?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* 📄 **Curriculum Vitae Digital (PDF):** https://share.gemini.google/8ODEzm5da4D4[Curriculum Vitae - Estudiante de Ciberseguridad UTP.pdf](https://github.com/user-attachments/files/35296443/Curriculum.Vitae.-.Estudiante.de.Ciberseguridad.UTP.pdf)
+* 📄 **Curriculum Vitae Digital (PDF):** - [Curriculum Vitae - Estudiante de Ciberseguridad UTP.pdf](https://github.com/user-attachments/files/35296903/Curriculum.Vitae.-.Estudiante.de.Ciberseguridad.UTP.pdf)
+
 
 * 📬 **Correo Institucional UTP:** jaickdeleon@utp.ac.pa
 
