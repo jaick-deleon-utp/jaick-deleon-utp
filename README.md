@@ -6,7 +6,7 @@
 
 ### 🌐 1. Importancia de la Marca Digital (Sobre mí)
 
-¡Hola! 👋 Soy **[jaick de leon]**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
+¡Hola! 👋 Soy **jaick de leon**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
 
 Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales.
 
