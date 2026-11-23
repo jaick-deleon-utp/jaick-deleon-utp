@@ -28,8 +28,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 - **Herramientas Colaborativas:** Git, GitHub, VS Code
 
 #### 📁 Proyectos y Laboratorios Académicos (UTP):
-- 🔹 **[Configuración de Perfil Profesional y Marca Digital](https://github.com/TU-USUARIO/utp-redes-lab1):** Proyecto parcial evaluado en la asignatura Sistemas Colaborativos (UTP, 2026).
-- 🔹 **Laboratorio de Simulación de Redes Seguras:** *(En desarrollo)* Captura y análisis de paquetes en redes locales.
+- 🔹 **Laboratorio de Simulación de Redes Seguras:** https://github.com/jaick-deleon-utp/jaick-deleon-lab1-*(En desarrollo)* Captura y análisis de paquetes en redes locales.
 - 🔹 **Scripts de Automatización para Tareas Administrativas:** *(Próximamente)* Herramientas en Python/Bash para verificación de archivos.
 
 ---
